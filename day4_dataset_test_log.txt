@@ -1,0 +1,171 @@
+Batch run started: Tue Aug  4 03:20:11 PM PKT 2026
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/000_1OC3DT_jpg.rf.24a0c73b9ab25d0fc256415db947d955.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/000_1OC3DT_jpg.rf.3f78d20fa71b4759c4304922c6bb91cb.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/000_1OC3DT_jpg.rf.74888ff736f6ad8eb7c631f4fe1609b4.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/000_1ov3n5_0_jpeg_jpg.rf.1dd89bffae3c13974eaa2d6b4cca3ba6.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/000_1ov3n5_0_jpeg_jpg.rf.2186e117560bb0329ad331d378e8906d.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/000_1ov3n5_0_jpeg_jpg.rf.23668713b2843a98e8ca199b1aeecfe3.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/0002526673_jpg.rf.6642435654f420765f530016cf382342.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/0002526673_jpg.rf.79f356f19a9c1e14514ce59ae57ab85b.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/0002526673_jpg.rf.c02f95d043b3ea2750d932553a4bf06c.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/0009S6815V3PEU1N-C123-F4_jpg.rf.11ea3269d827c60ece68d32a05f47e13.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/0009S6815V3PEU1N-C123-F4_jpg.rf.3154cefcc0f54b6e21242ad5cf6ac044.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/0009S6815V3PEU1N-C123-F4_jpg.rf.d58f05874c6eaada7eb5a90d2018c243.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/000b7b75-1600_jpg.rf.3bde5e127656fa9d417415a912124a20.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/000b7b75-1600_jpg.rf.45eb02d6ebcb8abf268dbab01ac72f16.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/000b7b75-1600_jpg.rf.f338036101df902783189aa5961cea4a.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/001_1024_jpeg_jpg.rf.2ec61ac38f0987515cc2c918fdc8f5cd.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/001_1024_jpeg_jpg.rf.df49b279d7450e3061c7232e28ab7bdb.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/001_1024_jpeg_jpg.rf.e091c8411b18a9d8235a30cafa37e2d3.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/002_1024_jpeg_jpg.rf.2d4f65c1fad9b1be0de6443f8e7008d4.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/002_1024_jpeg_jpg.rf.30daf5dec3d8c40443d2b1a00cb0e3da.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/002_1024_jpeg_jpg.rf.db07678e5160aa3aa04a68068c7d52a5.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/003_1024_jpeg_jpg.rf.07c51e8a5afa01dcac13189bcf73d4dd.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/003_1024_jpeg_jpg.rf.5f69b6d88a0858475ecdbbf48e694dc1.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/003_1024_jpeg_jpg.rf.953d5651f9271b97346dbe26650a51a6.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/004_1024_jpeg_jpg.rf.56f6d0dc26ac319e5d74ff906ffd467c.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/004_1024_jpeg_jpg.rf.65c7c10411f30b90ff19cfabd90f2314.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/004_1024_jpeg_jpg.rf.7575443825c5c5018eb25bdb48b068b2.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/0_10725_jpg.rf.4a47156a5f237db437cb736e060e70d4.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/0_10725_jpg.rf.660f30289ffbc45f2d0ade9e9b73ee87.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+=== Processing: /home/vctraspberrypi5/hailo-apps/Face-Detection-sample/0_10725_jpg.rf.b1d00d8d318d5d9fdf83ce0df6de1649.jpg ===
+INFO | common.core | All required environment variables loaded successfully.
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/scrfd_2.5g.hef
+INFO | common.core | Found HEF in resources: /usr/local/hailo/resources/models/hailo8l/arcface_mobilefacenet.hef
+WARNING | gstreamer.gstreamer_app | Shutdown initiated
+
+(Hailo Face Recognition App:27159): GStreamer-Video-CRITICAL **: 15:29:55.510: gst_video_center_rect: assertion 'src->h != 0' failed
+
+Batch run finished: Tue Aug  4 03:30:11 PM PKT 2026

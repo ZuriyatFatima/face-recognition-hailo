@@ -1,0 +1,24 @@
+# Biometric/personal data - not committed for privacy
+attendance_log/known/*.jpg
+attendance_log/unknown/*.jpg
+face_embeddings.csv
+face_embeddings_*.csv
+!face_embeddings_schema_example.csv
+
+# Third-party datasets (Roboflow exports) - not ours to redistribute
+Face-Detection-7/
+Face-Detection-sample/
+
+# Test media
+*.mp4
+*.avif
+lighting_test/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
